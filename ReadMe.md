@@ -7,7 +7,7 @@ After clicking on Book Now you can register yourself
 ![Sign Up page](assets/images/SignUp.png)
 
 Try here: 
-https://anikr47.github.io/Wanderlust/
+https://jatinonly.github.io/Wanderlust/
 
 
 ## ✨ Features
