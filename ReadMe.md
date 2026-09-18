@@ -5,6 +5,3 @@ Navigation for Sign Up:-
 ![Landing Page](assets/images/LandingPage.png)
 After clicking on Book Now you can register yourself
 ![Sign Up page](assets/images/SignUp.png)
-
-Try here: 
-https://jatinonly.github.io/Wanderlust/
